@@ -15,3 +15,8 @@ You need to install Deno first.
 ```shell
 	deno run ./fetch-http.ts <url> 
 ``` 
+- [Equal String](/equality-string.test.ts) - Use the `assureEqual` from deno to check string equality.
+
+```shell
+	deno test 
+``` 
