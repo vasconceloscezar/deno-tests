@@ -13,10 +13,10 @@ You need to install Deno first.
 - [Fetch-Http](/fetch-http.ts) - Using the `fetch` method to read an URL sent via args when runing the file. 
 
 ```shell
-	deno run ./fetch-http.ts <url> 
+deno run ./fetch-http.ts <url> 
 ``` 
 - [Equal String](/equality-string.test.ts) - Use the `assureEqual` from deno to check string equality.
 
 ```shell
-	deno test 
+deno test 
 ``` 
